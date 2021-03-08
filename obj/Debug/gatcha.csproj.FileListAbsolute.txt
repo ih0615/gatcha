@@ -1,0 +1,11 @@
+D:\Work\c#\gatcha\gatcha\bin\Debug\gatcha.exe.config
+D:\Work\c#\gatcha\gatcha\bin\Debug\gatcha.exe
+D:\Work\c#\gatcha\gatcha\bin\Debug\gatcha.pdb
+D:\Work\c#\gatcha\gatcha\obj\Debug\gatcha.csprojAssemblyReference.cache
+D:\Work\c#\gatcha\gatcha\obj\Debug\gatcha.Form1.resources
+D:\Work\c#\gatcha\gatcha\obj\Debug\gatcha.Properties.Resources.resources
+D:\Work\c#\gatcha\gatcha\obj\Debug\gatcha.csproj.GenerateResource.cache
+D:\Work\c#\gatcha\gatcha\obj\Debug\gatcha.csproj.CoreCompileInputs.cache
+D:\Work\c#\gatcha\gatcha\obj\Debug\gatcha.exe
+D:\Work\c#\gatcha\gatcha\obj\Debug\gatcha.pdb
+D:\Work\c#\gatcha\gatcha\obj\Debug\gatcha.Form2.resources

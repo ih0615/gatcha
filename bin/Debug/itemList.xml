@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<items>
+  <item type="pickUpEquip">
+    <name>지정되지 않음p</name>
+    <rare>4</rare>
+  </item>
+  <item type="pickUpStigma">
+    <name>지정되지 않음p-상</name>
+    <rare>4</rare>
+  </item>
+  <item type="pickUpStigma">
+    <name>지정되지 않음p-중</name>
+    <rare>4</rare>
+  </item>
+  <item type="pickUpStigma">
+    <name>지정되지 않음p-하</name>
+    <rare>4</rare>
+  </item>
+  <item type="equip">
+    <name>지정되지 않음1</name>
+    <rare>4</rare>
+  </item>
+  <item type="equip">
+    <name>지정되지 않음2</name>
+    <rare>4</rare>
+  </item>
+  <item type="equip">
+    <name>지정되지 않음3</name>
+    <rare>4</rare>
+  </item>
+  <item type="equip">
+    <name>지정되지 않음4</name>
+    <rare>4</rare>
+  </item>
+  <item type="equip">
+    <name>지정되지 않음5</name>
+    <rare>4</rare>
+  </item>
+  <item type="equip">
+    <name>지정되지 않음6</name>
+    <rare>4</rare>
+  </item>
+  <item type="stigma">
+    <name>지정되지 않음1-상</name>
+    <rare>4</rare>
+  </item>
+  <item type="stigma">
+    <name>지정되지 않음1-중</name>
+    <rare>4</rare>
+  </item>
+  <item type="stigma">
+    <name>지정되지 않음1-하</name>
+    <rare>4</rare>
+  </item>
+  <item type="stigma">
+    <name>지정되지 않음2-상</name>
+    <rare>4</rare>
+  </item>
+  <item type="stigma">
+    <name>지정되지 않음2-중</name>
+    <rare>4</rare>
+  </item>
+  <item type="stigma">
+    <name>지정되지 않음2-하</name>
+    <rare>4</rare>
+  </item>
+  <item type="stigma">
+    <name>지정되지 않음3-상</name>
+    <rare>4</rare>
+  </item>
+  <item type="stigma">
+    <name>지정되지 않음3-중</name>
+    <rare>4</rare>
+  </item>
+  <item type="stigma">
+    <name>지정되지 않음3-하</name>
+    <rare>4</rare>
+  </item>
+  <item type="stigma">
+    <name>지정되지 않음4-상</name>
+    <rare>4</rare>
+  </item>
+  <item type="stigma">
+    <name>지정되지 않음4-중</name>
+    <rare>4</rare>
+  </item>
+  <item type="stigma">
+    <name>지정되지 않음4-하</name>
+    <rare>4</rare>
+  </item>
+</items>
